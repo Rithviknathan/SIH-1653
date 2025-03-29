@@ -1,4 +1,4 @@
-![417132552-6fddecee-6fa5-4ad5-8b6f-ed78fbe0ebb1](https://github.com/user-attachments/assets/4e488ec5-28d8-4b4e-8707-3f50881158b6)# Smart India Hackathon Workshop
+# Smart India Hackathon Workshop
 # Date: 29/03/2025
 ## Register Number: 212223100045
 ## Name: RITHVIK S
